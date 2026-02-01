@@ -1,0 +1,15 @@
+:root{
+    /*cores*/
+    --primaria: ;
+    --pf-escuro: oklch(0.1 0 264);
+    --pf: oklch(0.2 0 264);
+    --pf-claro: oklch(0.3 0 264);
+
+    /*cores de texto */
+    --texto-: oklch(0.96 0 264);
+    
+    /* Sombra */
+    --sombra-m: inset 0 1px 2px #ffffff50, 0 2px 4px #00000030, 0 4px 8px #00000015;
+    
+
+}
