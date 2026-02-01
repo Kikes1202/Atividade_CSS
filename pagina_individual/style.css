@@ -9,10 +9,10 @@
     --texto: oklch(0.96 0 264);
     --texto-dim: oklch(0.76 0 264);
     
-    /* Sombra */set 0 1px 2px #ffffff50, 0 2px 4px #00000030, 0 4px 8px #00000015;
+    /* Sombra */
     
 
-    --sombra-m: in
+    --sombra-m: inset 0 1px 2px #ffffff50, 0 2px 4px #00000030, 0 4px 8px #00000015;
 }
 
 
